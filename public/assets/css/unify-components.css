@@ -1478,7 +1478,7 @@ hr {
 .u-header__section--dark--shift.js-header-change-moment .navbar-nav:not([class*="u-main-nav-v"]) .nav-link,
 .u-header__section--primary .navbar-nav:not([class*="u-main-nav-v"]) .nav-link,
 .u-header__section--primary--shift.js-header-change-moment .navbar-nav:not([class*="u-main-nav-v"]) .nav-link {
-  color: rgba(255, 255, 255, 0.8); }
+  color: #55555 !important; }
 
 .u-header__section--dark .navbar-nav:not([class*="u-main-nav-v"]) .nav-link:focus,
 .u-header__section--dark .navbar-nav:not([class*="u-main-nav-v"]) .nav-link:hover,
@@ -6569,7 +6569,7 @@ body .u-icon-v5 {
 .u-icon-v5.g-bg-blue::after {
   background-color: #3398dc; }
 
-.u-icon-v5.g-bg-lightblue::after {
+.u-icon-v5.u-header__section--dark .navbar-nav:notg-bg-lightblue::after {
   background-color: #edf2f8; }
 
 .u-icon-v5.g-bg-lightblue-v1::after {
